@@ -71,4 +71,17 @@
 			</plugin>
 		</plugins>
 	</build>
+	<url>https://github.com/aeldemerdash/Magical-War</url>
+	<organization>
+		<name>Amr Eldemerdash</name>
+		<url>https://github.com/aeldemerdash</url>
+	</organization>
+	<scm>
+		<developerConnection>Amr Eldemerdash</developerConnection>
+		<url>https://github.com/aeldemerdash</url>
+	</scm>
+	<issueManagement>
+		<url>https://github.com/aeldemerdash/Magical-War/issues</url>
+		<system>GitHub Issues</system>
+	</issueManagement>
 </project>
