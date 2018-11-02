@@ -12,6 +12,7 @@ A Console based RPG application written by java 8
 ## Documentation
 * [GitHub Repo](https://github.com/aeldemerdash/Magical-War)
 * [Issue Management](https://github.com/aeldemerdash/Magical-War/issues)
+* [Travis CI Build](https://travis-ci.org/aeldemerdash/Magical-War)
 
 
 ## Usage
